@@ -1,14 +1,14 @@
-## Hi there! I'm Kevin
+## Hi there! I'm Kevin 👋
 
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp; About Me
 
 - 🎓 &nbsp; I’m Full-Stack Developer
 - 😄 &nbsp; I’m interesting about UX/UI Design, Fronted and Backend Developer
 - 🌱 &nbsp; I’m currently learning ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) *and* ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
-### 🛠 Skills
+### 🛠 &nbsp; Skills
 <ul>
   <li>
     <p>&nbsp; 👁️ Front-End</p>
@@ -70,7 +70,7 @@
 
 
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp; Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kevin-paez-gallardo" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
