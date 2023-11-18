@@ -1,11 +1,15 @@
-## Hi there! I'm Kevin 👋
+## Hi there! 👋
 
 
 ### 👨🏻‍💻 &nbsp; About Me
 
 - 🎓 &nbsp; I’m Full-Stack Developer
 - 😄 &nbsp; I’m interesting about UX/UI Design, Fronted and Backend Developer
-- 🌱 &nbsp; I’m currently learning ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) *and* ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+- 🌱 &nbsp; I’m currently learning
+    - ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+    - ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+    - ![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+    - ![Vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 
 ### 🛠 &nbsp; Skills
@@ -35,8 +39,8 @@
       <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
       <img alt="socket.io" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
       <img alt="GrahpQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+      <img alt="Json-web-token" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"/>
       <img alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-      <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
     </p>
   </li>
 
