@@ -3,8 +3,8 @@
 
 ### 👨🏻‍💻 &nbsp; About Me
 
-- 🎓 &nbsp; I’m Full-Stack Developer
-- 😄 &nbsp; I’m interesting about UX/UI Design, Fronted and Backend Developer
+- 🎓 &nbsp; I’m Full Stack Developer
+- 😄 &nbsp; I’m also interesting about UX/UI Design
 - 🌱 &nbsp; I’m currently learning
     - ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
@@ -76,7 +76,7 @@
 </ul>
 
 
-
+<!--
 ### 🤝🏻 &nbsp; Connect with Me
 
 <p align="center">
@@ -84,7 +84,7 @@
 <a href="https://twitter.com/jkevxx" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="mailto:kevin.paez1010@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-
+-->
 
 <!--
 **jkevxx/jkevxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
