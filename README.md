@@ -3,8 +3,10 @@
 
 ### 👨🏻‍💻 &nbsp; About Me
 
-- 🎓 &nbsp; I’m Full Stack Developer
+- 🎓 &nbsp; I’m Web Developer
 - 😄 &nbsp; I’m also interesting about UX/UI Design
+
+<!--
 - ⚙️ &nbsp; I’m currently learning
 
   ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
