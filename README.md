@@ -3,8 +3,8 @@
 
 ### 👨🏻‍💻 &nbsp; About Me
 
-- 🎓 &nbsp; I’m Web Developer
-- 😄 &nbsp; I’m also interesting about UX/UI Design
+- 🎓 &nbsp; I’m a Software Engineer
+- 😄 &nbsp; I’m also interesting about Microservices, Cloud Providers and Software Architecture
 
 <!--
 - ⚙️ &nbsp; I’m currently learning
